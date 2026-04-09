@@ -1,3 +1,5 @@
+Python simulation of a Distance Vector routing network implementing the Split Horizon protocol with Poison Reverse to prevent routing loops and count-to-infinity problems. Parses custom topology input from stdin and handles dynamic route updates.
+
 # Split_Horizon
 Improving the performance of the routing protocol by simulating a network of routers performing route advertisement using a Distance Vector routing and Split Horizon protocol.
 
